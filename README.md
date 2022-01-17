@@ -8,6 +8,7 @@
 ## Поток B
 1. [День 1](pp_2022_d1b.pdf)
 1. [День 2](pp_2022_d2b.pdf)
+1. [День 3](pp_2022_d3b.pdf)
 
 ## Прочее
 - [Результаты](https://docs.google.com/spreadsheets/d/1V_xTpYHNtGZ6VKDsRoGgj9V_bgQuuOadjUuE9HlLp0o/edit#gid=0)
