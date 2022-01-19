@@ -14,3 +14,4 @@
 
 ## Прочее
 - [Результаты](https://docs.google.com/spreadsheets/d/1V_xTpYHNtGZ6VKDsRoGgj9V_bgQuuOadjUuE9HlLp0o/edit#gid=0)
+[Дополнительные задания](pp_2022_bonus.pdf)
